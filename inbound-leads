@@ -1,0 +1,24 @@
+API Url:
+https://puretalk.ai/api/post
+
+Body : Raw: JSON:
+
+{
+"first_name": "sample first name",
+"last_name": "sample Last name",
+"phone_no": "sample phone no",
+"address": "sample address",
+"city": "sample city",
+"state": "sample state",
+"zip": "sample zip",
+"email": "sample email"
+}
+Result on Success:
+{
+"Result": "Data Submitted"
+}
+
+Result on failed:
+{
+"Result": "failed"
+}
