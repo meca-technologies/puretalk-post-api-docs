@@ -12,6 +12,7 @@ Body : Raw: JSON:
 "state": "sample state",
 "zip": "sample zip",
 "email": "sample email"
+"user": "sample@email.com"
 }
 Result on Success:
 {
